@@ -1,25 +1,15 @@
-# ☀️ Summer-of-SQL
+# ☀️ Summer of SQL
 
-Welcome to The Summer of SQL!
+Welcome to the Summer of SQL Challenge for 2024!
 
-It's Summer of '24 and indeed a very hot British Summer. This summer, I have decided to take on this challenge to polish my SQL skills which need to be on top as a Data Analyst.
+This summer, amidst the scorching British heat, I'm dedicating my weekends to sharpening my SQL skills as a Data Analyst. Expect to find me in cafes around Reading, enjoying the air conditioning while fervently coding SQL queries.
 
-Hence, every other weekend you could see me sitting in cafes around Reading (for the aircon) coding SQL logics aggresively banging keys of my keyboard.
+I’m tackling this challenge using [DBFiddle](https://www.db-fiddle.com/), an online SQL playground with PostgreSQLv15, to solve various SQL problems.
 
-All my SQL code is written on [DBFiddle](https://www.db-fiddle.com/) - an online SQL playground using the PostgreSQLv15
+Feel free to check out my solutions and reach out to me on LinkedIn if you have any questions. Just a note—there are often multiple ways to approach a problem, different interpretations of questions, and variations in SQL dialects (e.g., MySQL vs PostgreSQL). If your solution differs, that’s perfectly fine!
 
-Here's my solution to the Summer of SQL Challenge, if you have any questions on my solutions, Please feel free to connect with me on Linkedin and drop me a message
+The key is to understand and explain the reasoning behind your SQL code.
 
-However, Please note, there are sometimes:
+Share your progress on social media with #SummerofSQL and #datafam.
 
-multiple ways to solve a question,
-different was of interpreting a question,
-and variations in SQL dialects (e.g. mySQL vs PostgreSQL)
-Your answer may be different and that's ok!
-
-If you can explain why you have written the code to answer the question that is the most important thing.
-
-Share your progress on social media using the hashtags #SummerofSQL and #datafam.
-
-This challenge was crafted by [Will Sutton](https://github.com/wjsutton) who has done an amazing job in building this repository.
-
+This challenge was thoughtfully created by [Will Sutton](https://github.com/wjsutton), who has done an excellent job in curating this repository.
