@@ -1,4 +1,4 @@
-# Summer-of-SQL
+# ☀️ Summer-of-SQL
 
 Welcome to The Summer of SQL!
 
