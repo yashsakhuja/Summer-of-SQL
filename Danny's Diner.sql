@@ -1,6 +1,6 @@
-DANNY'S DINER
+-- DANNY'S DINER
 
-https://8weeksqlchallenge.com/case-study-1/
+-- https://8weeksqlchallenge.com/case-study-1/
 
 -- 1. What is the total amount each customer spent at the restaurant?
 SELECT sales.customer_id,SUM(menu.price)
